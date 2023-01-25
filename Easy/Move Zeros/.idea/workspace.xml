@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="554c3e65-5f13-4635-841d-88e84a11a09a" name="Changes" comment="adding Rotate Array exercise" />
+    <list default="true" id="c4071811-7458-4eb5-ba1b-160921d9f83e" name="Changes" comment="adding Move Zeros exercise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2KkpzpK1TEg69lcHX8cEkeImInx" />
+  <component name="ProjectId" id="2KniFwhdqRIErKmMetke1aTDy0W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,41 +29,27 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="554c3e65-5f13-4635-841d-88e84a11a09a" name="Changes" comment="" />
-      <created>1674528700415</created>
+      <changelist id="c4071811-7458-4eb5-ba1b-160921d9f83e" name="Changes" comment="" />
+      <created>1674616648522</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674528700415</updated>
+      <updated>1674616648522</updated>
     </task>
-    <task id="LOCAL-00001" summary="adding Rotate Array exercise">
-      <created>1674533436639</created>
+    <task id="LOCAL-00001" summary="adding Move Zeros exercise">
+      <created>1674617442107</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1674533436639</updated>
+      <updated>1674617442107</updated>
     </task>
-    <task id="LOCAL-00002" summary="adding Rotate Array exercise">
-      <created>1674533480273</created>
+    <task id="LOCAL-00002" summary="adding Move Zeros exercise">
+      <created>1674617460167</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1674533480273</updated>
+      <updated>1674617460167</updated>
     </task>
-    <task id="LOCAL-00003" summary="adding Rotate Array exercise">
-      <created>1674533514518</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1674533514518</updated>
-    </task>
-    <task id="LOCAL-00004" summary="adding Rotate Array exercise">
-      <created>1674572584489</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1674572584489</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,7 +64,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adding Rotate Array exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding Rotate Array exercise" />
+    <MESSAGE value="adding Move Zeros exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding Move Zeros exercise" />
   </component>
 </project>
