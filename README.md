@@ -5,9 +5,6 @@ This repository contains my solutions for the [LeetCode](https://leetcode.com) c
 ## Getting Started
 To get started, simply clone the repository to your local machine:
 
-## Copy code
-git clone https://github.com/VanishJr/leetcode-solutions.git
-
 ## Problem List
 The solutions are organized by problem number and problem name. Each solution includes the problem statement, the corresponding code in Java, and any additional notes or thoughts on the solution.
 
