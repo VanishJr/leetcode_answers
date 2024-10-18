@@ -1,3 +1,5 @@
+![LeetCode Stats](https://leetcode.card.workers.dev/vanishjr?theme=dark&font=baloo&extension=null)
+
 # LeetCode Solutions
 
 This repository contains my solutions for the [LeetCode](https://leetcode.com) coding challenges. Each solution includes the problem statement and the corresponding code in Java.
@@ -14,6 +16,5 @@ If you find any errors or have suggestions for improvements, feel free to open a
 ## License
 This repository is licensed under the MIT License.
 
-![LeetCode Stats](https://leetcode.card.workers.dev/vanishjr?theme=dark&font=baloo&extension=null)
 
 
