@@ -20,8 +20,7 @@ To get started, simply clone the repository to your local machine
 | 21             | Merge Two Sorted Lists           | Easy     | Java     |
 | 26             | Remove Duplicates from Sorted Array | Easy   | Java     |
 | 27             | Remove Element                  | Easy     | Java     |
-| 28             | Find the Index of the First Occurrence in a String
-           | Easy     | Java     |
+| 28             | Find the Index of the First Occurrence in a String | Easy     | Java     |
 | 35             | Search Insert Position           | Easy     | Java     |
 | 53             | Maximum Subarray                 | Medium   | Java     |
 | 58             | Length of Last Word              | Easy     | Java     |
