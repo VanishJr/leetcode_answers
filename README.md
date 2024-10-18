@@ -1,8 +1,8 @@
-![LeetCode Stats](https://leetcode.card.workers.dev/vanishjr?theme=dark&font=baloo&extension=null)
-
 # LeetCode Solutions
 
 This repository contains my solutions for the [LeetCode](https://leetcode.com) coding challenges. Each solution includes the problem statement and the corresponding code in Java.
+
+![LeetCode Stats](https://leetcode.card.workers.dev/vanishjr?theme=dark&font=baloo&extension=null)
 
 ## Getting Started
 To get started, simply clone the repository to your local machine
