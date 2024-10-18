@@ -20,6 +20,8 @@ To get started, simply clone the repository to your local machine
 | 21             | Merge Two Sorted Lists           | Easy     | Java     |
 | 26             | Remove Duplicates from Sorted Array | Easy   | Java     |
 | 27             | Remove Element                  | Easy     | Java     |
+| 28             | Find the Index of the First Occurrence in a String
+           | Easy     | Java     |
 | 35             | Search Insert Position           | Easy     | Java     |
 | 53             | Maximum Subarray                 | Medium   | Java     |
 | 58             | Length of Last Word              | Easy     | Java     |
@@ -27,10 +29,17 @@ To get started, simply clone the repository to your local machine
 | 70             | Climbing Stairs                  | Easy     | Java     |
 | 125            | Valid Palindrome                 | Easy     | Java     |
 | 217             | Contains Duplicate              | Easy     | Java     |
+| 278             | First Bad Version                | Easy     | Java     |
 | 283            | Move Zeros                       | Easy     | Java     |
 | 344            | Reverse String                   | Easy     | Java     |
+| 557             | Reverse Words in a String III | Easy   | Java     |
 | 704            | Binary Search                    | Easy     | Java     |
+| 706             | Design HashMap                  | Easy     | Java     |
+| 746             | Min Cost Climbing Stairs           | Easy     | Java     |
+| 844             | Backspace String Compare                 | Medium   | Java     |
+| 876             | Middle of the Linked List              | Easy     | Java     |
 | 953            | Verifying an Alien Dictionary    | Easy     | Java     |
+| 977             | Squares of a Sorted Array                          | Easy     | Java     |
 | 1071             | Greatest Common Divisor of Strings | Easy   | Java     |
 | 1122             | Relative Sort Array         | Easy     | Java     |
 | 1269           | Number of Ways to Stay in the Same Place | Hard | Java |
