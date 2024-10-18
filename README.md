@@ -11,6 +11,7 @@ To get started, simply clone the repository to your local machine
 | Problem Number | Problem Name                     | Level    | Language |
 |----------------|----------------------------------|----------|----------|
 | 1              | Two Sum                          | Easy     | Java     |
+| 4           | Median of Two Sorted Arrays      | Hard     | Java     |
 | 9              | Palindrome Number                | Easy     | Java     |
 | 10             | Regular Expression Matching      | Hard     | Java     |
 | 11             | Container With Most Water        | Medium   | Java     |
@@ -31,6 +32,8 @@ To get started, simply clone the repository to your local machine
 | 278             | First Bad Version                | Easy     | Java     |
 | 283            | Move Zeros                       | Easy     | Java     |
 | 344            | Reverse String                   | Easy     | Java     |
+| 458           | Poor Pigs      | Hard     | Java     |
+| 502           | IPO      | Hard     | Java     |
 | 557             | Reverse Words in a String III | Easy   | Java     |
 | 704            | Binary Search                    | Easy     | Java     |
 | 706             | Design HashMap                  | Easy     | Java     |
@@ -44,10 +47,15 @@ To get started, simply clone the repository to your local machine
 | 1269           | Number of Ways to Stay in the Same Place | Hard | Java |
 | 1331             | Rank Transform of an Array                 | Medium   | Java     |
 | 1361           | Validate Binary Tree Nodes       | Medium   | Java     |
+| 1420           | Build Array Where You Can Find The Maximum Exactly K Comparisons | Hard     | Java     |
 | 1425           | Constrained Subsequence Sum      | Hard     | Java     |
+| 1458           | Max Dot Product of Two Subsequences      | Hard     | Java     |
 | 1470           | Shuffle the Array                | Easy     | Java     |
-| 1773           | Maximum Score of a Good Subarray | Hard     | Java     |
+| 1793           | Maximum Score of a Good Subarray | Hard     | Java     |
 | 1963           | Minimum Number of Swaps to Make the String Balanced | Medium | Java |
+| 2009           | Minimum Number of Operations to Make Array Continuous      | Hard     | Java     |
+| 2050           | Parallel Courses III      | Hard     | Java     |
+| 2051           | Number of Flowers in Full Bloom      | Hard     | Java     |
 | 2262           | Total Appeal of A String         | Hard     | Java     |
 | 2406           | Divide Intervals Into Minimum Number of Groups | Medium | Java |
 | 2696             | Minimum String Length After Removing Substrings                          | Easy     | Java     |
